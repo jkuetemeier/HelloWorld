@@ -1,0 +1,7 @@
+image: bradrydzewski/node:0.10
+
+env:
+  - TEST=test
+script:
+  - npm install
+  - 

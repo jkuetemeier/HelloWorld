@@ -4,7 +4,15 @@
   "description": "A Node.js App using express",
   "dependencies": {
     "express": "*"
-   },
-  "engine": "node >=0.10.x"
+  },
+  "engine": "node >=0.10.x",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "grunt": "^0.4.5",
+    "grunt-mocha": "^0.4.11",
+    "grunt-mocha-cli": "^1.10.0",
+    "load-grunt-tasks": "^0.6.0",
+    "mocha": "^1.21.4",
+    "time-grunt": "^1.0.0"
+  }
 }
-
