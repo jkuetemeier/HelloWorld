@@ -1,4 +1,5 @@
 'use strict';
+/*jslint node: true*/
 
 module.exports = function(grunt) {
   // Show elapsed time at the end
